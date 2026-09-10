@@ -25,7 +25,7 @@ Found a typo or want to improve an app description? Feel free to submit a PR!
 
 ### Get Your App Spotlighted on X
 
-Want more than a line in the list? Send your app to [@NativeMacApps](https://x.com/NativeMacApps) on X for a chance at its own spotlight post.
+Want more than a line in the list? Send your app to [@Best_MacApps](https://x.com/best_macapps) on X for a chance at its own spotlight post.
 
 ### Reporting Issues
 
@@ -218,7 +218,7 @@ Want to suggest a new category? Open an issue first to discuss:
 
 - 💬 **Discussion**: Use [GitHub Discussions](../../discussions)
 - 🐛 **Issues**: Create an [issue](../../issues/new)
-- 🐦 **X**: [@NativeMacApps](https://x.com/NativeMacApps)
+- 🐦 **X**: [@best_macapps](https://x.com/best_macapps)
 - 📧 **Email**: (Add your contact email if you want)
 
 ## Recognition
