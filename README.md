@@ -96,7 +96,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 | [IINA](https://iina.io/) | Plays any video format natively. Makes QuickTime feel like a toy. |
 | [AppCleaner](https://freemacsoft.net/appcleaner/) | Uninstall apps properly — removes all leftover files, not just the `.app`. |
 | [iTerm2](https://iterm2.com/) | The terminal macOS should have shipped with. Tabs, split panes, search, and more. |
-| [Raycast](https://www.raycast.com/) | Supercharged Spotlight replacement. Launch apps, manage clipboard, run scripts, and more — all from one keystroke. |
+| [TinyCast](https://tinycast.dev/) | Supercharged Spotlight replacement. Launch apps, manage clipboard, run scripts, and more — all from one keystroke. |
 
 ---
 
