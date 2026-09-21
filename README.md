@@ -462,7 +462,7 @@ Apps must meet ALL these criteria:
 
 ### Get Your App Spotlighted on X
 
-Beyond adding your app to this list, you can send it to us on [X (@NativeMacApps)](https://x.com/NativeMacApps) for a chance at an individual spotlight post with a screenshot and writeup. [Follow the account](https://x.com/NativeMacApps) to catch new spotlights.
+Beyond adding your app to this list, you can send it to us on [X (@best_macapps)](https://x.com/best_macapps) for a chance at an individual spotlight post with a screenshot and writeup. [Follow the account](https://x.com/NativeMacApps) to catch new spotlights.
 
 ## Star History
 
