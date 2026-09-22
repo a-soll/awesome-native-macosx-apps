@@ -23,6 +23,7 @@ Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered 
 
 _Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
 
+**👨‍💻 Building a Mac app?** This list is for users discovering apps — if you're looking for where to *launch* one, see [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) for submission platforms, subreddits, and newsletters, each tagged free or paid.
 
 ---
 
@@ -463,6 +464,10 @@ Apps must meet ALL these criteria:
 ### Get Your App Spotlighted on X
 
 Beyond adding your app to this list, you can send it to us on [X (@best_macapps)](https://x.com/best_macapps) for a chance at an individual spotlight post with a screenshot and writeup. [Follow the account](https://x.com/NativeMacApps) to catch new spotlights.
+
+### Looking for More Places to Launch?
+
+Getting your app into this list is one channel — for the full picture (Product Hunt-style platforms, relevant subreddits, other GitHub awesome lists, and newsletters that cover Mac apps), see [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms).
 
 ## Star History
 
