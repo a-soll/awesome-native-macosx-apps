@@ -31,7 +31,6 @@ _Join early subscribers and never miss a great native Mac app again. Unsubscribe
 
 **Getting Started**
 - [What Makes an App "Native"?](#what-makes-an-app-native)
-- [Electron App Detector](#-electron-app-detector)
 - [New to Mac? Start Here](#-new-to-mac-start-here)
 
 **Categories**
@@ -98,29 +97,6 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 | [AppCleaner](https://freemacsoft.net/appcleaner/) | Uninstall apps properly — removes all leftover files, not just the `.app`. |
 | [iTerm2](https://iterm2.com/) | The terminal macOS should have shipped with. Tabs, split panes, search, and more. |
 | [TinyCast](https://tinycast.dev/) | Supercharged Spotlight replacement. Launch apps, manage clipboard, run scripts, and more — all from one keystroke. |
-
----
-
-## 🔍 Electron App Detector
-
-A fun, visually appealing script to detect Electron-based applications on your Mac.
-
-### Quick Start
-
-**One-line install and run:**
-
-```bash
-curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-macosx-apps/main/find-electron-apps-macos.sh | bash
-```
-
-### What It Does
-
-- 🔎 Scans `/Applications` folder for Electron apps
-- ⚡ Identifies apps built with Electron framework
-- 📊 Shows app names, sizes, and versions
-- 🎨 Beautiful, colorful terminal output
-
-📖 **[Read more about the detector →](ELECTRON-DETECTOR.md)**
 
 ---
 
